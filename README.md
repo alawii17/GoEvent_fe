@@ -165,7 +165,7 @@ Aplikasi Event Management dibuat untuk memudahkan pengguna dalam mengelola dan m
    ```
 4. Jalankan aplikasi:
    ```bash
-   npm start
+   npm run dev
    ```
 
 Thank you. 🚀
